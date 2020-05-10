@@ -11,7 +11,6 @@ struct Node
 	    data = x;
 	    next = NULL;
 	}
-	
 };
 
 Node* mergeKLists(Node* arr[], int N);
